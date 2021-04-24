@@ -1,0 +1,4 @@
+function newFunction() { 
+    console.log (date); date = "todays date";
+    
+    } 

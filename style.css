@@ -1,0 +1,39 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Amaranth&display=swap');
+
+element.style {
+  font-family: 'Amaranth', Georgia;
+}
+
+.header, .footer {
+    display: center;
+    color: 30, 18, 0, 7;
+    padding: 25px;
+}
+
+h1, h2 {
+  display: center;
+  background-color: rgba(149, 203, 216, 0.925) ;
+  color: rgba(250, 250, 250, 0.925);
+  line-height: 15px;
+  margin-bottom: px;
+  padding: 25px;
+}
+
+.img {
+    display: right;
+}
+
+.body {
+    display: left;
+    color: rgba(226, 200, 248, 0.925);
+}
+
+.assignment-list {
+    display: left;   
+}
+
+
+
+
